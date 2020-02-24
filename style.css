@@ -1,0 +1,105 @@
+.logo{
+
+    width:100px ;
+}
+.container{
+    margin: 50px 100px;
+    padding-bottom: 5px;
+    
+}
+.bg-light{
+    background-color: white !important;
+}
+.navbar-nav{
+    padding-left: 600px;
+}
+
+.buy-now-button{
+    border: none;
+    padding: 10px 25px;
+    background: #252525;
+    color: #fff;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Oswald' ;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-indicators li {
+	height: 8px;
+	background-color: orange;
+}
+#see-all{
+    color: orange;
+}
+.card-title{
+    font-weight: bolder;
+}
+
+.card-footer{
+    border: none;
+    background-color: none;
+
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 35px;
+}
+.card h5{
+    font-weight: 600;
+}
+h2{
+   
+    font-weight: 600;
+    color:black;
+    
+}
+#bg{
+    font-size: 35px;
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+    margin-bottom: 70px;
+    padding-bottom: 1px
+}
+     #bg:after {
+    position: absolute;
+    content: "";
+    height: 11px;
+    width: 135px;
+    background: transparent linear-gradient(142deg, #FF9C35 0%, #FFD019 100%) 0% 0% 
+    no-repeat padding-box;
+    border-radius: 10px;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+     }
+      .white{
+          background-color:white;
+      }
+      body{
+          background-color:whitesmoke;
+      }
+    footer{
+        text-align: center;
+        font-weight: bolder;
+        font-size: larger;
+        
+    
+    }
+    .orange-bg-two{
+        background-color: #38e74f;
+        border-radius: 10px;
+        margin: 0px 50px 0px 300px;
+        width:500px;
+        padding-left: 80px;
+
+    }
